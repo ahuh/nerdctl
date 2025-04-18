@@ -4,4 +4,4 @@ Nerdctl official image with `docker` alias, support for HTTP proxy, and addition
 
 Link to docker hub: https://hub.docker.com/r/ahuh/nerdctl
 
-Link to source: https://github.com/containerd/nerdctl
+Link to nerdctl: https://github.com/containerd/nerdctl
