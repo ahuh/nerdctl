@@ -14,8 +14,8 @@ export IMAGE_NAME=nerdctl
 
 # - Array of the tag versions to build for the image
 declare -x -a TAG_VERSIONS=(
-    v2.0.4
-    v2.0
+    v2.2.0
+    v2.2
     v2
     latest
 )

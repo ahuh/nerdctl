@@ -1,4 +1,4 @@
-FROM ghcr.io/containerd/nerdctl:v2.0.4 AS git
+FROM ghcr.io/containerd/nerdctl:v2.2.0 AS git
 
 # Set env var dedicated to build-time only (for availability during docker BUILD phase)
 # - HTTP proxy settings
